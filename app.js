@@ -1,5 +1,5 @@
 var map = L.map('mapid', {
-  scrollWheelZoom: false
+  scrollWheelZoom: true
 });
 
 map.setView([-22.275800
